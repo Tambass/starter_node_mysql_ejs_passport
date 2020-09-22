@@ -1,1 +1,2 @@
-# starter_node_mysql_ejs_passport
+# starter-node-mysql-ejs-passport
+ 
